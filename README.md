@@ -1,6 +1,6 @@
-#  골연령 예측 / [Bone Age Prediction]
+## 골연령 예측 / [Bone Age Prediction]
 
------------------------------------------------------------
+
 ### 결과 / [Result]
 ![image](https://user-images.githubusercontent.com/60537388/141226133-dbff15df-f3db-46f6-9bce-506b361aafb8.png)
 ## 설명 / [Description]
